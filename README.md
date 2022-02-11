@@ -4,7 +4,7 @@ Food Facts
 
 ## Getting Started
 
-This project is a demo for building PWA application
+This project is a demo for building PWA application, you can read details of this [Here](https://www.fullstacklabs.co/blog/pwa-with-flutter)
 
 ## Getting Started
 
